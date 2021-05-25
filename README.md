@@ -1,5 +1,5 @@
 # Family Resemblance in Genre Stylistics
-https://zenodo.org/badge/doi/10.5281/zenodo.4785348.svg
+[![DOI](https://zenodo.org/badge/370617664.svg)](https://doi.org/10.5281/zenodo.4785348)
 
 Data and scripts accompanying the paper "Family Resemblance in Genre Stylistics: A Case Study with 19th Century Spanish American Novels" authored by Ulrike Henny-Krahmer.
 
